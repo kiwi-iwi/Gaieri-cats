@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: rgb(255, 159, 255);
+    text-shadow: 5px 0px 3px rgb(0, 0, 0) ;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+}
+h1:hover {
+    font-size: 50px;
+
+}
+p {
+    color: rgb(16, 192, 223);
+    text-shadow: rgb(0, 0, 0);
+    text-align: center;
+    width: 100%;
+}
+.cat {
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
+.img1 {
+    background-image: url(../img/гепа.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.img2:hover {
+    background-image: url(../img/img_top.jpg);
+}
+.img1:hover {
+    background-image: url(../img/index.jpg);
+}
+.img2 {
+    background-image: url(../img/киці.JPG);
+    background-size: cover;
+    background-position: center;
+}
+.img3 {
+    background-image: url(../img/лев.webp);
+    background-size: cover;
+    background-position: center;
+}
+.img3:hover {
+    background-image: url(../img/льви.jpg);
+}
+.img4 {
+    background-image: url(../img/пумма.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.img4:hover {
+    background-image: url(../img/leopard.jpg);
+}
+.img5 {
+    background-image: url(../img/рись.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.img5:hover {
+    background-image: url(../img/ще\ рись.jpg);
+}
+.img6 {
+    background-image: url(../img/тигр.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.img6:hover {
+    background-image: url(../img/драка.jpg);
+}
+.img7 {
+    background-image: url(../img/ем\ хтось\ .jpg);
+    background-size: cover;
+    background-position: center;
+}
+.img7:hover{
+    background-image: url(../img/хтось\ злий.jpg);
+}
+.img8 {
+    background-image: url(../img/сервал.png);
+    background-size: cover;
+    background-position: center;
+}
+.img8:hover {
+    background-image: url(../img/ххххххххххшшш.jpg);
+}
+.img9 {
+    background-image: url(../img/котя.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.img9:hover {
+    background-image: url(../img/манул.jpg);
+}
+.WildCraft {
+    width: 80%;
+    margin: auto;
+    padding: 60px;
+    background-color: rgb(169, 255, 208);
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0px 0px 10px 9px rgb(0, 0, 0);
+    font-family: 'Pacifico', cursive;
+    
+}
+body {
+     background-color: rgb(136, 252, 155);
+
+}
